@@ -3,7 +3,7 @@
 This repository contains the website for the CaseP project.
 
 ## 1
-![](CaseP1.jpg)
+![](CaseP1.JPG)
 
 ## 2
-![](CaseP2.jpg)
+![](CaseP2.JPG)
