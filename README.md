@@ -1,6 +1,9 @@
-# casep
+# ⚡️ case presenter ⚡️
 
-Case Presenter
------------------
+This repository contains the website for the CaseP project.
 
-Simon Chen
+## 1
+![](CaseP1.jpg)
+
+## 2
+![](CaseP2.jpg)
